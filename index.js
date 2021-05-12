@@ -1,6 +1,6 @@
 module.exports = {
-  addCat (cat) {
+  addPet (pet) {
     /* snip */
-    return cat;
+    return pet;
   },
  };
